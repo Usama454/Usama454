@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Usama454
-- 👀 I’m interested in Data Science
+- 📈 I'm a Performance marketer and Facebook ads media buyer
+- 👀 I’m learning Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small Python Projects
 - 📫 How to reach via email
